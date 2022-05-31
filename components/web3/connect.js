@@ -62,7 +62,7 @@ export default function Connect() {
   return (
     <Box sx={{textAlign: 'center'}}>
     {!active ? (
-      <CustomButton classes="nes-btn" id="connectButton" variant="contained"
+      <CustomButton disabled id="connectButton" variant="contained"
         disableElevation
         onClick={handleConnect}
         >

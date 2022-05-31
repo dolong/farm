@@ -21,9 +21,6 @@ const Footer = () => {
         >
           <Twitter fontSize="large" />
         </MuiNextLink>
-        <Typography >
-          © {new Date().getFullYear()}
-        </Typography>
       </Stack>
   </Box>);
 };
