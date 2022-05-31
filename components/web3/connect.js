@@ -66,7 +66,7 @@ export default function Connect() {
         disableElevation
         onClick={handleConnect}
         >
-          Connect Wallet
+          Conⁿeₑᵏₜ Wᵥalleeeₜt   
         </CustomButton>
         ) :
     <div>
@@ -117,7 +117,7 @@ export default function Connect() {
       handleClose={handleClose}
     />
     {/* {active && chainId !== 4 && <p>Please connect to Rinkeby for this demo. </p>} */}
-    {active && <p>Not live yet. </p>}
+    {active && <p>ᑯᶦss nₒᵗt ˡᵢᵛv ᵧeₜ. </p>}
     </ Box>
   )
 }
