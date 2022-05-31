@@ -12,6 +12,14 @@ export default function Home() {
         <title>ᵒoⁿ-cʰₐₑᶦⁿ ᵍoᵇlin ᶠfaʳm</title>
         <meta name="description" content="ᵒoⁿ-cʰₐₑᶦⁿ ᵍaᵇlin ᵒoⁿ-cʰₐₑᶦⁿ gₒbbₗᵢₙₛ ᵒoⁿ-cʰₐₑᶦⁿ GₒBₗᵢₙₙₙₙₙₙₙₙₙ" />
         <link rel="icon" href="/favicon.ico" />
+        <meta property="og:title" content="Goblin Farm: On-chain Goblin Farming Gaming"/>
+        <meta property="og:description" content="No Roadmap, CC0, on-chain!"/>
+        <meta property="og:image" content="https://www.goblinfarm.wtf/bg.png"/>
+        <meta property="og:site_name" content="Goblin Farm: On-chain Goblin Farming Gaming"/>
+        <meta property="keywords" content="GoblinFarm, NFT, Game"/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta property="twitter:image" content=".png"/>
+        <link rel="icon" href="/img/favicons/favicon-32x32.png"/><meta name="next-head-count" content="11"/>
       </Head>
 
       <main className={styles.main}>
