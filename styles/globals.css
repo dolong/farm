@@ -9,6 +9,11 @@ a {
   text-decoration: none;
 }
 
+.MuiTypography-root {
+  text-decoration: none !important;
+  color: #91f900 !important;
+}
+
 * {
   box-sizing: border-box;
 }

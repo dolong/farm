@@ -29,6 +29,9 @@ const Header = () => {
               sx={{ display: `flex`, justifyContent: `space-between`, alignItems: 'center' }}
             >
               
+                <MuiNextLink activeClassName="active" href='/'>
+                GoblinFarm.wtf
+                </MuiNextLink>
               <Stack direction="row" alignItems='center'>
                 <Connect />
               </Stack>
