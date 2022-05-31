@@ -30,7 +30,7 @@ const Header = () => {
             >
               
                 <MuiNextLink activeClassName="active" href='/'>
-                GoblinFarm.WTF
+                &nbs;
                 </MuiNextLink>
               <Stack direction="row" alignItems='center'>
                 <Connect />

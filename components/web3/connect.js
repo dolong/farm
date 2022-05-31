@@ -62,7 +62,7 @@ export default function Connect() {
   return (
     <Box sx={{textAlign: 'center'}}>
     {!active ? (
-      <CustomButton disabled id="connectButton" variant="contained"
+      <CustomButton id="connectButton" variant="contained"
         disableElevation
         onClick={handleConnect}
         >
@@ -116,7 +116,8 @@ export default function Connect() {
       handleLoginClick={handleLoginClick}
       handleClose={handleClose}
     />
-    {active && chainId !== 4 && <p>Please connect to Rinkeby for this demo. </p>}
+    {/* {active && chainId !== 4 && <p>Please connect to Rinkeby for this demo. </p>} */}
+    {active && <p>Not live yet. </p>}
     </ Box>
   )
 }
