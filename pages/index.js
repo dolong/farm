@@ -19,7 +19,7 @@ export default function Home() {
         <meta property="keywords" content="GoblinFarm, NFT, Game"/>
         <meta name="twitter:card" content="summary_large_image"/>
         <meta property="twitter:image" content=".png"/>
-        <link rel="icon" href="/img/favicons/favicon-32x32.png"/><meta name="next-head-count" content="11"/>
+        <link rel="icon" href="https://www.goblinfarm.wtf/favicon-32x32.png"/><meta name="next-head-count" content="11"/>
       </Head>
 
       <main className={styles.main}>
