@@ -24,13 +24,13 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Goblin Farm
+          Gᵤbˡin farᵣₘ
         </h1>
 
         <p className={styles.description}>
           <Stack spacing={1}>
             <p>
-              Coming Soon.
+            Cᵃmmin ₛune.
             </p>
             
           </Stack>
